@@ -29,7 +29,7 @@ const projects = [
     desc: "Sistem manajemen data sederhana yang dibangun menggunakan PHP murni dan database MySQL.", 
     tech: "PHP + MySQL",
     link: "https://github.com/qillyz05/PHP-Native",
-    image: "https://docs.google.com/drawings/d/1H55BWBe6VH9wNfDJv3Je_PAxAoVEAHjfLaloh1dAtiM/edit?usp=drivesdk" 
+    image: "#" 
   },
   { 
     title: "E-Commerce App", 
